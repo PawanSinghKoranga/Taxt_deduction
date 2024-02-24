@@ -8,6 +8,7 @@ function App() {
     <div className="App">
        <BackgroundAnimation />
        <SalaryCalculator />
+       <h1>demo by Pawan</h1>
     </div>
   );
 }
